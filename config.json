@@ -7,6 +7,7 @@
         {
             "url": "us-west.minexmr.com:443",
             "user": "8Bf1P1G2PeAUbVZemboBWbCTL8B8JbgrVJr95A7dWV2s7AA24xeD2xBcw1kzPcpHknLsX15ii5K4shpvVgvhMaQ4PwYqabZ",
+            "rig-id": "iu iem",
             "keepalive": true,
             "tls": true
         }
